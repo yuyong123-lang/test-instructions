@@ -15,4 +15,12 @@ public class ServiceA {
     public void testInstructions() {
         System.out.println("测试命令项目");
     }
+
+    public void test1() {
+        System.out.println("测试命令项目-github");
+    }
+
+    public void test2() {
+        System.out.println("测试命令项目-github");
+    }
 }
