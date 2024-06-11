@@ -11,4 +11,9 @@ public class ServiceA {
     public void setServiceB(ServiceB serviceB) {
         this.serviceB = serviceB;
     }
+
+    public void test() {
+        System.out.println("测试命令项目-github");
+    }
+
 }
