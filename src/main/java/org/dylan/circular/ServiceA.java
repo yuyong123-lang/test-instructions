@@ -13,6 +13,10 @@ public class ServiceA {
     }
 
     public void test() {
+        System.out.println("测试命令项目");
+    }
+
+    public void test() {
         System.out.println("测试命令项目-github");
     }
 
