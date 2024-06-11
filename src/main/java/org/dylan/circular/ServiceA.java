@@ -16,6 +16,11 @@ public class ServiceA {
         System.out.println("测试命令项目");
     }
 
+
+    public void testInstruction2() {
+        System.out.println("测试命令项目");
+    }
+
     public void test1() {
         System.out.println("测试命令项目-github");
     }
