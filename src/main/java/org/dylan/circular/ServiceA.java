@@ -11,4 +11,6 @@ public class ServiceA {
     public void setServiceB(ServiceB serviceB) {
         this.serviceB = serviceB;
     }
+
+    public void test_direct_merge() {}
 }
