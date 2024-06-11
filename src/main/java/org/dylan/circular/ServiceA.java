@@ -11,25 +11,4 @@ public class ServiceA {
     public void setServiceB(ServiceB serviceB) {
         this.serviceB = serviceB;
     }
-
-    public void testInstructions() {
-        System.out.println("测试命令项目");
-    }
-
-
-    public void testInstruction2() {
-        System.out.println("测试命令项目");
-    }
-
-    public void testInstruction3() {
-        System.out.println("测试命令项目");
-    }
-
-    public void test1() {
-        System.out.println("测试命令项目-github");
-    }
-
-    public void test2() {
-        System.out.println("测试命令项目-github");
-    }
 }
