@@ -13,4 +13,7 @@ public class ServiceA {
     }
 
     public void test_direct_merge() {}
+
+
+    public void test_feature_1() {}
 }
