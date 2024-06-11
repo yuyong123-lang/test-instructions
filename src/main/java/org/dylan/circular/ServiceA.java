@@ -12,5 +12,12 @@ public class ServiceA {
         this.serviceB = serviceB;
     }
 
-    public void test_direct_merge() {}
+    public void test_direct_merge() {
+
+    }
+
+
+    public void test_feature_2() {
+
+    }
 }
